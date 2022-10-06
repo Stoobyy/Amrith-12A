@@ -1,3 +1,3 @@
 # Amrith-12A
-Come One Come All.\n
+Come One Come All./newline
 kakegurui best
