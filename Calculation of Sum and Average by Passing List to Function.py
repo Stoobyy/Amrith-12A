@@ -9,4 +9,5 @@ def sum_avg(list):
 for i in range(int(input('Enter number of elements in list: '))):
     l1.append(int(input('Enter element: ')))
 
-print(sum_avg(l1))
+data = sum_avg(l1)
+print(f'Sum of elements in list is {data[0]}\nAverage of elements in list is {data[1]}')
